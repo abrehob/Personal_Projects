@@ -80,7 +80,8 @@ public class Ball : MonoBehaviour
 			this.transform.localScale = normalScale;
 			direction = startDirection;
 
-			Instantiate(arrow);
+			// I think this causes a race condition with code in Arrow.cs
+			/*Instantiate(arrow);
 			int multiplier = 0;
 			if (this.direction == 0 || this.direction == 90)
 			{
@@ -93,7 +94,7 @@ public class Ball : MonoBehaviour
 			arrow.transform.position = new Vector3(this.transform.position.x +
 				((((int) (this.direction + 90) % 180) / 90) * ((multiplier - 0.5f) * 2) * 1.3f),
 				this.transform.position.x + ((((int) this.direction % 180) / 90) *
-				((multiplier - 0.5f) * 2) * 1.3f), this.transform.position.z);
+				((multiplier - 0.5f) * 2) * 1.3f), this.transform.position.z);*/
 				
 			rigid.velocity = Vector3.zero;
 			Game.goalReached = false;
