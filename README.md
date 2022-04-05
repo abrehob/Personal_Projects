@@ -1,6 +1,6 @@
 # Project Summaries
 
-Below are quick descriptions of each of my personal projects.  More detail for each project is provided with the README file within its respective folder.
+Below are quick descriptions of each of my personal projects.  More detail for each project is provided in the README file within its respective folder.
 
 ### Smash Ultimate Research
 (Pending) In this Python project, I record and analyze data related to the opponents we face when playing Super Smash Bros. Ultimate online.  I answer questions such as, "What are the most commonly picked characters?" and "What characters are the toughest to beat?"
