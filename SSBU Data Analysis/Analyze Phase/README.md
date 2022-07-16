@@ -7,4 +7,5 @@
 * ^General Win-Rate Continued: Serves as a continuation to the above spreadsheet; answers a 3-part win-rate question
 * SSBUDataAnalysis.R: Answers questions about character popularity and win-rates under varying factors using R code
 * SSBUDataAnalysis.sql: Answers questions about character popularity and win-rates under varying factors using SQL queries
+* SSBUDataAnalysis.db: Holds the state of the SQL database after completion of cleaning and analysis operations
 * ^Analysis Report: For each question, explains the question itself, analysis process, solution, and potential sources of bias
