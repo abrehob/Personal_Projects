@@ -8,4 +8,4 @@
 * ^Tableau Vizzes: Display charts that hold the results to analyzed questions using the Tableau software
 * ^Visualization Report: Describes techniques used to design the graphs
 * ^Results Presentation: Explains the project results as if the audience consists of supervisors/stakeholders
-* ^Summary Presentation: Provides a synopsis of my overall project procedure
+* ^Summary Presentation (Original and Short Versions): Provides a synopsis of my overall project procedure
